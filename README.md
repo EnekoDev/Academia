@@ -14,4 +14,5 @@ Academia is proyect created to learn and work together in a Full Stack Angular +
 ## Tech Stack
 
 **Frontend:** Angular 20.1.4
+
 **Backend:** SpringBoot 3.5.4
